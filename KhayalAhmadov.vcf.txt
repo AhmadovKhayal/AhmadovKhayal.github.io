@@ -1,9 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-FN:Khayal Ahmadov
-TITLE:Senior Network & Security Engineer
-TEL;TYPE=CELL:+994777211220
-TEL;TYPE=WORK:+971563090606
-EMAIL:khayal.ahmadov@gmail.com
-URL:https://www.linkedin.com/in/khayal-ahmadov-2b1154114/
-END:VCARD
